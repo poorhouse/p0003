@@ -1,0 +1,4 @@
+I2c_t=SDA,SCL
+Port_4bit_t=0,1,2,3
+Port_8bit_t=0,1,2,3,4,5,6,7
+Spi_t=MOSI,MISO,SCLK
