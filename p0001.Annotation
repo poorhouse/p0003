@@ -244,6 +244,13 @@ ChannelName34=U_micro_avr_tiny_48_88_tqfp32
 UniqueID34=\RKUHRVSO\WPUBFJAN\YRFOIMLA
 PhysicalDesignator34=C4.7
 PhysicalDesignatorLocked34=0
+LogicalDesignator35=P1
+LogicalPartID35=1
+DocumentName35=top.SchDoc
+ChannelName35=top
+UniqueID35=\YYHMLKVJ
+PhysicalDesignator35=P1.1
+PhysicalDesignatorLocked35=0
 
 [SheetNumberManager]
 SheetNumberOrder=Sheets Hierarchical Structure - Depth First
