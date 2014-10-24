@@ -410,6 +410,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document23]
+DocumentPath=power_ldo_fixed_sot223.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YRYYLJTC
+
+[Document24]
+DocumentPath=..\..\library\poorhouse-beta-elec-library\BB Power Mgt Voltage Regulator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -1267,14 +1301,22 @@ Order6=5
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=
-DocumentName7=top.SchDoc
+UniqueIDPath7=\LKLRHHAF
+DocumentName7=power_ldo_fixed_sot223.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=6
+Order7=9
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
+UniqueIDPath8=
+DocumentName8=top.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=6
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
 
 [PrjClassGen]
 CompClassManualEnabled=0
