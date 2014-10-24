@@ -1,4 +1,4 @@
 Array_4x4_t=COL[0..3],ROW[0..3]
-Encoder_t=0,1,2
+Encoder_t=A,B
 Port_4bit_t=0,1,2,3
 Port_8bit_t=0,1,2,3,4,5,6,7
