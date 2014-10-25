@@ -1,0 +1,2 @@
+I2c_t=SCL,SDA
+Spi_t=MISO,MOSI,SCLK
