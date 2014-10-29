@@ -648,8 +648,104 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+Description=Variant of p0001
+AllowFabrication=0
+ParameterCount=0
+VariationCount=37
+Variation1=Designator=MH1.1|UniqueId=\VMVTTPJV|Kind=1|AlternatePart= 
+Variation2=Designator=MH4.1|UniqueId=\CHMHLMTS|Kind=1|AlternatePart= 
+Variation3=Designator=MH3.1|UniqueId=\RDABAHMN|Kind=1|AlternatePart= 
+Variation4=Designator=MH2.1|UniqueId=\VIJDBAXJ|Kind=1|AlternatePart= 
+Variation5=Designator=TP1.1|UniqueId=\OECINDLI|Kind=1|AlternatePart= 
+Variation6=Designator=TP13.1|UniqueId=\BOSIOQWB|Kind=1|AlternatePart= 
+Variation7=Designator=TP3.7|UniqueId=\RKUHRVSO\WPUBFJAN\CWWHKWWI|Kind=1|AlternatePart= 
+Variation8=Designator=TP11.1|UniqueId=\OINBQKTD|Kind=1|AlternatePart= 
+Variation9=Designator=TP4.7|UniqueId=\RKUHRVSO\WPUBFJAN\RGENQBWT|Kind=1|AlternatePart= 
+Variation10=Designator=TP12.1|UniqueId=\OCYCGFYC|Kind=1|AlternatePart= 
+Variation11=Designator=TP9.1|UniqueId=\HJCUSOGS|Kind=1|AlternatePart= 
+Variation12=Designator=TP8.1|UniqueId=\JJFGQESS|Kind=1|AlternatePart= 
+Variation13=Designator=TP7.1|UniqueId=\DLKESRRN|Kind=1|AlternatePart= 
+Variation14=Designator=TP6.1|UniqueId=\OBWJPLBP|Kind=1|AlternatePart= 
+Variation15=Designator=TP10.1|UniqueId=\PYEPWVIJ|Kind=1|AlternatePart= 
+Variation16=Designator=TP5.1|UniqueId=\GBCKFDWU|Kind=1|AlternatePart= 
+Variation17=Designator=TP5.7|UniqueId=\RKUHRVSO\WPUBFJAN\KNWCPGVK|Kind=1|AlternatePart= 
+Variation18=Designator=TP4.1|UniqueId=\HVPRENWF|Kind=1|AlternatePart= 
+Variation19=Designator=TP2.7|UniqueId=\RKUHRVSO\WPUBFJAN\PQPUOTJX|Kind=1|AlternatePart= 
+Variation20=Designator=TP3.1|UniqueId=\SGTRDXIJ|Kind=1|AlternatePart= 
+Variation21=Designator=TP1.7|UniqueId=\RKUHRVSO\WPUBFJAN\LCEQMLWP|Kind=1|AlternatePart= 
+Variation22=Designator=TP2.1|UniqueId=\ESDGBBDG|Kind=1|AlternatePart= 
+Variation23=Designator=TP24.1|UniqueId=\LOUAYYSA|Kind=1|AlternatePart= 
+Variation24=Designator=TP18.1|UniqueId=\DGWJDRGB|Kind=1|AlternatePart= 
+Variation25=Designator=TP16.1|UniqueId=\CACFDXYP|Kind=1|AlternatePart= 
+Variation26=Designator=TP20.1|UniqueId=\SDHQNKCO|Kind=1|AlternatePart= 
+Variation27=Designator=TP19.1|UniqueId=\CVSMPKUK|Kind=1|AlternatePart= 
+Variation28=Designator=TP22.1|UniqueId=\FFIPVPQC|Kind=1|AlternatePart= 
+Variation29=Designator=TP23.1|UniqueId=\HMSYBNDW|Kind=1|AlternatePart= 
+Variation30=Designator=TP21.1|UniqueId=\UIMVSSOA|Kind=1|AlternatePart= 
+Variation31=Designator=TP15.1|UniqueId=\LOHYDLAK|Kind=1|AlternatePart= 
+Variation32=Designator=TP17.1|UniqueId=\FJOMVUAW|Kind=1|AlternatePart= 
+Variation33=Designator=TP14.1|UniqueId=\WTGLODSK|Kind=1|AlternatePart= 
+Variation34=Designator=FD1.1|UniqueId=\GHMAPIES|Kind=1|AlternatePart= 
+Variation35=Designator=FD3.1|UniqueId=\HXCATCML|Kind=1|AlternatePart= 
+Variation36=Designator=FD2.1|UniqueId=\NGYVWEJX|Kind=1|AlternatePart= 
+Variation37=Designator=FD4.1|UniqueId=\MEGGNHBL|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for p0001\BOM\Bill of Materials-p0001.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for p0001\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for p0001\ERC\p0001.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for p0001\NC Drill\PCB1-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for p0001\NC Drill\PCB1-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for p0001\NC Drill\PCB1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for p0001\Gerber\PCB1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for p0001\DiffReport\PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for p0001\DRC\PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for p0001\FootprintComparison\PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for p0001\NC Drill\PCB1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for p0001\Gerber\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for p0001\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for p0001\Pick Place\Pick Place for PCB1.txt
 DItemRevisionGUID=
 
 [Configuration1]
