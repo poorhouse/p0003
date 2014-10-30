@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for p0001
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -697,94 +697,98 @@ DocumentPath=out\Generate Files\BOM\Bill of Materials-p0001(Variant of p0001).cs
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=out\Generate Files\ERC\p0001.html
+DocumentPath=Project Outputs for p0001\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=out\Generate Files\NC Drill\PCB1-RoundHoles.TXT
+DocumentPath=out\Generate Files\ERC\p0001.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=out\Generate Files\NC Drill\PCB1-SlotHoles.TXT
+DocumentPath=out\Generate Files\NC Drill\PCB1-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=out\Generate Files\NC Drill\PCB1.DRR
+DocumentPath=out\Generate Files\NC Drill\PCB1-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=out\Generate Files\Gerber\PCB1.EXTREP
+DocumentPath=out\Generate Files\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=out\Generate Files\Gerber\PCB1.G1
+DocumentPath=out\Generate Files\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=out\Generate Files\Gerber\PCB1.GBL
+DocumentPath=out\Generate Files\Gerber\PCB1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=out\Generate Files\Gerber\PCB1.GBO
+DocumentPath=out\Generate Files\Gerber\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=out\Generate Files\Gerber\PCB1.GBP
+DocumentPath=out\Generate Files\Gerber\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=out\Generate Files\Gerber\PCB1.GBS
+DocumentPath=out\Generate Files\Gerber\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=out\Generate Files\Gerber\PCB1.GD1
+DocumentPath=out\Generate Files\Gerber\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=out\Generate Files\Gerber\PCB1.GG1
+DocumentPath=out\Generate Files\Gerber\PCB1.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=out\Generate Files\Gerber\PCB1.GP1
+DocumentPath=out\Generate Files\Gerber\PCB1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=out\Generate Files\Gerber\PCB1.GTL
+DocumentPath=out\Generate Files\Gerber\PCB1.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=out\Generate Files\Gerber\PCB1.GTO
+DocumentPath=out\Generate Files\Gerber\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=out\Generate Files\Gerber\PCB1.GTP
+DocumentPath=out\Generate Files\Gerber\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=out\Generate Files\Gerber\PCB1.GTS
+DocumentPath=out\Generate Files\Gerber\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=out\Generate Files\DiffReport\PCB1.html
+DocumentPath=out\Generate Files\Gerber\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=out\Generate Files\DRC\PCB1.html
+DocumentPath=out\Generate Files\DiffReport\PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=out\Generate Files\NC Drill\PCB1.LDP
+DocumentPath=out\Generate Files\DRC\PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=out\Generate Files\Gerber\PCB1.REP
+DocumentPath=out\Generate Files\NC Drill\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=out\Generate Files\Gerber\PCB1.RUL
+DocumentPath=out\Generate Files\Gerber\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=out\Generate Files\Gerber\PCB1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=out\Generate Files\Pick Place\Pick Place for PCB1(Variant of p0001).csv
 DItemRevisionGUID=
 
@@ -799,7 +803,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for p0001
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
