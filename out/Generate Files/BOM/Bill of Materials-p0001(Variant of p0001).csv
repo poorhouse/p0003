@@ -1,0 +1,14 @@
+Comment,Description,Designator,Footprint,LibRef,Manufacturer,ManufacturerPartNumber,Quantity,Value
+
+"C0402","Ceramic Chip Capacitor - Standard","C1.4, C1.7, C2.4, C2.7, C3.4, C4.7","0402","C0402","","","6","0.01uF 16V, 0.1uF 10V, 0.01uF 16V, 0.1uF 10V, 0.01uF 16V, 4700pF 25V"
+"C0603","Ceramic Chip Capacitor - Standard","C3.7","0603","C0603","","","1","1uF 6.3V"
+"C0805","Ceramic Chip Capacitor - Standard","Cin.9, Cout.9","0805","C0805","","","2","10uF 10V"
+"HSMF-C165","Miniature Bi-Colour Surface Mount Chip LED (Red/Green)","D1.5, D2.5, D3.5, D4.5, D5.5, D6.5, D7.5, D8.5, D9.5, D10.5, D11.5, D12.5, D13.5, D14.5, D15.5, D16.5","1.6X0.8X0.5","HSMF-C165","","","16",""
+"CL586-0561-5","FH12 Series, "Flip-Lock" SMT/ZIF FFC/FPC Connector - 0.5mm Spaced Vertical Mounting","J1.2, J1.3","FH12-15S-0.5SV","CL586-0561-5","Hirose","FH12-15S-0.5SV(55)","2",""
+"Component_1","Light Pipe Vertical","M1.1, M2.1, M3.1, M4.1, M5.1, M6.1, M7.1, M8.1, M9.1, M10.1, M11.1, M12.1, M13.1, M14.1, M15.1, M16.1","PCBComponent_1","Component_1","Bivar","VLP-350-F","16",""
+"Header 2","Header, 2-Pin","P1.1","HDR1X2","Header 2","","","1",""
+"Header 3X2","Header, 3-Pin, Dual row","P1.8","HDR2X3","Header 3X2","","","1",""
+"ERJ2RB","Precision Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 1% and 0.5% Tolerance, 0402 Size, 0.063 W","R1.4, R1.5, R1.7, R2.4, R2.5, R2.7, R3.4, R3.5, R3.7, R4.4, R4.5, R5.4","2-0402","ERJ2RB","","","12","10k, 68 Ohm, 10k, 10k, 68 Ohm, 10k, 10k, 68 Ohm, 10k, 10k, 68 Ohm, 10k"
+"PEC11R-4215F-S0024","PEC11R-4xxxF-Sxxxx","U1.4","PCBComponent_1","Component_1","Bourns","PEC11R-4215F-S0024","1",""
+"ATtiny88-AUR","8-bit AVR Microcontroller, 1.8-5.5V, 12MHz, 8KB Flash, 64 Bytes EEPROM, 512 Bytes SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C), Pb-Free, Reel","U1.7","32A_N","ATtiny88-AUR","","","1",""
+"REG1117-3.3","800mA and 1A Low Dropout Positive Regulator 2.85V, 3.3V, 5V, and Adjustable","U1.9","ZZ311","REG1117-3.3","Texas Instruments","REG1117-3.3/2K5","1",""

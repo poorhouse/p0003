@@ -1,0 +1,10 @@
+Output: Differences Report
+Type  : DiffReport
+From  : PCB Document [PCB1.PcbDoc]
+   Generated File[PCB1.html]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:55:01 PM On 10/29/2014
