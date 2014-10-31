@@ -7,8 +7,6 @@ Generating : TopLayer1
 
     Adding Layer      : TopLayer1
 
-    Adding Layer      : Board Outline
-
     Adding Layer      : Multi-Layer
 
 
@@ -31,16 +29,14 @@ Generating : MidLayer2
 
     Adding Layer      : MidLayer2
 
-    Adding Layer      : Board Outline
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D13
     D14
-    D16
-    D18
+    D15
+    D17
     D19
     D20
 *************************************************************
@@ -51,14 +47,12 @@ Generating : Ground Plane
 
     Adding Layer      : Ground Plane
 
-    Adding Layer      : Board Outline
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D14
-    D16
+    D17
     D21
     D22
     D23
@@ -72,8 +66,6 @@ Generating : BottomLayer4
       File : PCB1.GBL
 
     Adding Layer      : BottomLayer4
-
-    Adding Layer      : Board Outline
 
     Adding Layer      : Multi-Layer
 
@@ -110,8 +102,6 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Board Outline
-
 
 Used DCodes :
     D14
@@ -123,8 +113,6 @@ Generating : Top Paste
       File : PCB1.GTP
 
     Adding Layer      : Top Paste
-
-    Adding Layer      : Board Outline
 
     Adding Layer      : TopLayer1
 
@@ -141,8 +129,6 @@ Generating : Top Solder
       File : PCB1.GTS
 
     Adding Layer      : Top Solder
-
-    Adding Layer      : Board Outline
 
     Adding Layer      : TopLayer1
 
@@ -168,8 +154,6 @@ Generating : Bottom Solder
       File : PCB1.GBS
 
     Adding Layer      : Bottom Solder
-
-    Adding Layer      : Board Outline
 
     Adding Layer      : BottomLayer4
 
@@ -206,8 +190,6 @@ Generating : Bottom Paste
 
     Adding Layer      : Bottom Paste
 
-    Adding Layer      : Board Outline
-
     Adding Layer      : BottomLayer4
 
     Adding Layer      : Multi-Layer
@@ -234,8 +216,6 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Board Outline
-
 
 Used DCodes :
     D13
@@ -247,10 +227,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Drill Drawing
-      File : PCB1.GD1
+Generating : Board Outline
+      File : PCB1.GM6
 
     Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB1.GD1
 
     Adding Drill Pair : TopLayer1-BottomLayer4
 
@@ -268,8 +257,6 @@ Used DCodes :
 *************************************************************
 Generating : Drill Guide
       File : PCB1.GG1
-
-    Adding Layer      : Board Outline
 
     Adding Drill Pair : TopLayer1-BottomLayer4
 
