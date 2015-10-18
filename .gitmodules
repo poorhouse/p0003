@@ -1,0 +1,6 @@
+[submodule "library/internal"]
+	path = library/internal
+	url = git@github.com:poorhouse/p0005.git
+[submodule "library/external"]
+	path = library/external
+	url = git@github.com:poorhouse/p0006.git
